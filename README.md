@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Khichi</h1>
 <h3 align="center">I'm a second-year Computer Science student deeply passionate about technology and innovation, specializing in full-stack web development.</h3>
 
-<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" align="left" alt="Coding" width="400">
+<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" align="right" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-750&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-750" /> </p>
 
